@@ -1,9 +1,9 @@
 # miwx
 **A micro web server for static content**
 
+![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/terminal.png)
+
 > It is designed to be as small and fast as possible, but still able to handle all kinds of GET requests featuring html, css, js as well as any kind of text files. However, it cannot yet process images that well.
->
-> ![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/terminal.png)
 
 ## Usage
 > You can use it in every folder containing code for a website by calling:
