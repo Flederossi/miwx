@@ -18,14 +18,14 @@ sudo miwx [port]
 > make install
 > ```
 > Now miwx should be installed. To check, go to the templates folder and run:
-> ```
-> sudo miwx 80
-> ```
+```
+sudo miwx 80
+```
 > This will start the web server on port 80. If you now search for 'localhost' or '127.0.0.1' in your browser you should get the output:
-> ```
-> 127.0.0.1:29573 -> 127.0.0.1:80 | ./index.html
-> 127.0.0.1:29574 -> 127.0.0.1:80 | ./style.css
-> ```
+```
+127.0.0.1:29573 -> 127.0.0.1:80 | ./index.html
+127.0.0.1:29574 -> 127.0.0.1:80 | ./style.css
+```
 > Also the example website should show up like this:
 >
 > ![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/screen.png)
