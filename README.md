@@ -14,9 +14,9 @@ sudo miwx [port]
 ## Installation
 ### Linux:
 > Compile and install miwx by using:
-> ```
-> make install
-> ```
+```
+make install
+```
 > Now miwx should be installed. To check, go to the templates folder and run:
 ```
 sudo miwx 80
