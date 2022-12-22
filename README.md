@@ -1,5 +1,5 @@
 # miwx
-** A micro web server for static content **
+**A micro web server for static content**
 
 > It is designed to be as small and fast as possible, but still able to handle all kinds of GET requests featuring html, css, js as well as any kind of text files. However, it cannot yet process images that well.
 >
