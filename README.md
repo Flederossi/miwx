@@ -29,5 +29,5 @@ sudo miwx 80
 > Also the example website should show up like this:
 >
 > ![Alt Text](https://github.com/Flederossi/miwx/blob/main/assets/screen.png)
->
-> Now you can run miwx in every folder of your machine to make that the root folder of the web server.
+
+Now you can run miwx in every folder of your machine to make that the root folder of the web server.
